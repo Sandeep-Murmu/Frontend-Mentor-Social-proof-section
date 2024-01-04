@@ -182,7 +182,6 @@ body {
   }
 
   .rating-content {
-    border: 1px solid orangered;
     padding: 1rem 0;
     justify-content: space-between;
     flex-direction: column;
